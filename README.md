@@ -2,4 +2,6 @@
 
 2.	To access the repo use : ` https://github.com/akashtickoo/demo1.git `
 
-3.	 To package : ` mvn package `
+3.	To package : ` mvn package `
+
+4.	Test
