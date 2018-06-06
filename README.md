@@ -5,3 +5,5 @@
 3.	To package : ` mvn package `
 
 4.	Test
+
+5.	Added to test could deplyment.
